@@ -1,6 +1,6 @@
 {
-  "homepage": "https://akshatsinghkaushik.github.io/ReactPractice_VideoList-YoutubeAPI/",
-  "name": "videos",
+  "homepage": "https://akshatsinghkaushik.github.io/ReactPractice_VideoList-Hooks-YoutubeAPI/",
+  "name": "videos-hooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
